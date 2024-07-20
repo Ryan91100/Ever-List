@@ -1,0 +1,20 @@
+<resources>
+    <!--Ryan McCollum -->
+    <string name="app_name">Ever-List</string>
+    <string name="add">Add</string>
+    <string name="enter_an_item">Enter an item</string>
+    <string name="clear">Clear</string>
+    <string name="ToDo">To-Do List</string>
+    <string name="Notes">Notes</string>
+    <string name="ShopList">Shopping List</string>
+    <string name="Hint1">Enter Something</string>
+<!--Akilah Parks -->
+    <string-array name="categories">
+        <item>Produce</item>
+        <item>Dairy</item>
+        <item>Bakery</item>
+        <item>Meat</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
